@@ -1,2 +1,4 @@
 Hello.
 
+Now I can edit this file from GitHub.com
+
